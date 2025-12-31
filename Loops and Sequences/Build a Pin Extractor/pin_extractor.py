@@ -1,3 +1,7 @@
+"""
+In this workshop you will create a pin extractor, the pin digits are hidden in each line of a poem.
+"""
+
 def pin_extractor(poems):
     secret_codes = []
     for poem in poems:
