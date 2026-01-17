@@ -42,8 +42,3 @@ print(planet_3)
 print(planet_3.orbit())
         
 
-
-** end of main.py **
-
-
-
